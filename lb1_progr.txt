@@ -6,7 +6,7 @@ int main() {
     int array1[256]; //Номер интерации
     int combined[768]; //Результирующий массив
 
-    int a = 5, b = 10, c = 0, d = 4, e = 2;
+    int a1 = 5, b2 = 10, c3 = 0, d4 = 4, e5 = 2;
     int t;
     int y;
 
